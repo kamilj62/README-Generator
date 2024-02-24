@@ -94,7 +94,7 @@ function generateMarkdown(data) {
   ${data.tests}
   
   ## Questions
-  For any questions, please contact [${data.username}](https://github.com/${data.username}) or email at ${data.email}.
+  For any questions, please contact [${data.username}](https://github.com/${data.username}) on GitHub or email at ${data.email}.
   `;
 }
 

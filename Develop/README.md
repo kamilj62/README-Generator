@@ -1,9 +1,9 @@
 # README Generator
   
   ## Description
-  Professional README Generator
+  A professional README is generated using the app
 
-  ![License: Unlicense](https://img.shields.io/badge/License-Unlicense-brightgreen.svg)
+  ![License: GNU%20LGPLv3](https://img.shields.io/badge/License-GNU%20LGPLv3-brightgreen.svg)
   
   ## Table of Contents
   - [Installation](#installation)
@@ -20,7 +20,7 @@
   none
   
   ## License
-  https://unlicense.org
+  https://www.gnu.org/licenses/lgpl.html
 
   ## Contributing
   none
