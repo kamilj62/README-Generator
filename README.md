@@ -34,7 +34,7 @@ none
 
 ## Tests
 
-none
+![Fullstack Blog Video Submission](./Develop/screencast.gif);
 
 ## Questions
 
