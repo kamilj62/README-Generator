@@ -21,7 +21,6 @@ none
 
 ## Usage
 
-none
 https://opensource.org/licenses/MIT
 
 ## license
